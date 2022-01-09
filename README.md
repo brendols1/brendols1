@@ -5,7 +5,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brendols1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendols1&layout=compact&langs_count=7&theme=dracula">
 </div>
-  <h2>:hammer_and_wrench: Tech Stacks</h2>
+  <h2>:hammer_and_wrench: Ferramentas</h2>
 <div style="display: inline_block"><br>
   <img align="top" alt="HTML" src="https://camo.githubusercontent.com/c8d13e1c596a6726b1da8475a9299fac133f95ef009083b48be01f975a44987e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35">
   <img align="top"src="https://camo.githubusercontent.com/d738d76484d50c8345c2d01e39364b707285bc7936140858e7909dfe6424efb2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3035313232413f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236">
@@ -15,8 +15,6 @@
 </div>
   
   
-  ##
-  <h2>	:bellhop_bell: Social Links</h2> 
 <div> 
   <a href="https://instagram.com/brendo_bm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:brendolucas2019@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
