@@ -1,10 +1,5 @@
 ## Olá eu sou Brendo Lucas!!
 
-<div align="left">
-  <a href="https://github.com/brendols1">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brendols1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendols1&layout=compact&langs_count=7&theme=dracula">
-</div>
   <h2>:hammer_and_wrench: Ferramentas</h2>
 <div style="display: inline_block"><br>
   <img align="top" alt="HTML" src="https://camo.githubusercontent.com/c8d13e1c596a6726b1da8475a9299fac133f95ef009083b48be01f975a44987e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35">
@@ -14,7 +9,7 @@
   <img align="top" alt="GITHUB"src="https://camo.githubusercontent.com/202a58d250ff1d21ee70433e0070b55f8fed747f8883c1750742aa791b1ad871/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562">
 </div>
   
-  ##
+  ## 📱 Sociais
   
 <div> 
   <a href="https://instagram.com/brendo_bm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
